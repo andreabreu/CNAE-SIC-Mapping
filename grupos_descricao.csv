@@ -1,0 +1,291 @@
+Grupo,Descrição
+01.1,Produção de lavouras temporárias
+01.2,Horticultura e floricultura
+01.3,Produção de lavouras permanentes
+01.4,Produção de sementes e mudas certificadas
+01.5,Pecuária
+01.6,"Atividades de apoio à agricultura e à pecuária; atividades de
+pós-colheita"
+01.7,Caça e serviços relacionados
+02.1,Produção florestal - florestas plantadas
+02.2,Produção florestal - florestas nativas
+02.3,Atividades de apoio à produção florestal
+03.1,Pesca
+03.2,Aquicultura
+05.0,Extração de carvão mineral
+06.0,Extração de petróleo e gás natural
+07.1,Extração de minério de ferro
+07.2,Extração de minerais metálicos não ferrosos
+08.1,"Extração de pedra, areia e argila"
+08.9,Extração de outros minerais não metálicos
+09.1,Atividades de apoio à extração de petróleo e gás natural
+09.9,"Atividades de apoio à extração de minerais, exceto petróleo e gás natural"
+10.1,Abate e fabricação de produtos de carne
+10.2,Preservação do pescado e fabricação de produtos do pescado
+10.3,"Fabricação de conservas de frutas, legumes e outros vegetais"
+10.4,Fabricação de óleos e gorduras vegetais e animais
+10.5,Laticínios
+10.6,"Moagem, fabricação de produtos amiláceos e de alimentos para animais"
+10.7,Fabricação e refino de açúcar
+10.8,Torrefação e moagem de café
+10.9,Fabricação de outros produtos alimentícios
+11.1,Fabricação de bebidas alcoólicas
+11.2,Fabricação de bebidas não alcoólicas
+12.1,Processamento industrial do fumo
+12.2,Fabricação de produtos do fumo
+13.1,Preparação e fiação de fibras têxteis
+13.2,"Tecelagem, exceto malha"
+13.3,Fabricação de tecidos de malha
+13.4,"Acabamentos em fios, tecidos e artefatos têxteis"
+13.5,"Fabricação de artefatos têxteis, exceto vestuário"
+14.1,Confecção de artigos do vestuário e acessórios
+14.2,Fabricação de artigos de malharia e tricotagem
+15.1,Curtimento e outras preparações de couro
+15.2,Fabricação de artigos para viagem e de artefatos diversos de couro
+15.3,Fabricação de calçados
+15.4,"Fabricação de partes para calçados, de qualquer material"
+16.1,Desdobramento de madeira
+16.2,"Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis"
+17.1,Fabricação de celulose e outras pastas para a fabricação de papel
+17.2,"Fabricação de papel, cartolina e papel-cartão"
+17.3,"Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado"
+17.4,"Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado"
+18.1,Atividade de impressão
+18.2,Serviços de pré-impressão e acabamentos gráficos
+18.3,Reprodução de materiais gravados em qualquer suporte
+19.1,Coquerias
+19.2,Fabricação de produtos derivados do petróleo
+19.3,Fabricação de biocombustíveis
+20.1,Fabricação de produtos químicos inorgânicos
+20.2,Fabricação de produtos químicos orgânicos
+20.3,Fabricação de resinas e elastômeros
+20.4,Fabricação de fibras artificiais e sintéticas
+20.5,Fabricação de defensivos agrícolas e desinfestantes domissanitários
+20.6,"Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal"
+20.7,"Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins"
+20.9,Fabricação de produtos e preparados químicos diversos
+21.1,Fabricação de produtos farmoquímicos
+21.2,Fabricação de produtos farmacêuticos
+22.1,Fabricação de produtos de borracha
+22.2,Fabricação de produtos de material plástico
+23.1,Fabricação de vidro e de produtos do vidro
+23.2,Fabricação de cimento
+23.3,"Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes"
+23.4,Fabricação de produtos cerâmicos
+23.9,Aparelhamento de pedras e fabricação de outros produtos de minerais não metálicos
+24.1,Produção de ferro-gusa e de ferroligas
+24.2,Siderurgia
+24.3,"Produção de tubos de aço, exceto tubos sem costura"
+24.4,Metalurgia dos metais não ferrosos
+24.5,Fundição
+25.1,"Fabricação de estruturas metálicas e obras de caldeiraria
+pesada"
+25.2,"Fabricação de tanques, reservatórios metálicos e caldeiras"
+25.3,"Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais"
+25.4,"Fabricação de artigos de cutelaria, de serralheria e ferramentas"
+25.5,"Fabricação de equipamento bélico pesado, armas e munições"
+25.9,Fabricação de produtos de metal não especificados anteriormente
+26.1,Fabricação de componentes eletrônicos
+26.2,Fabricação de equipamentos de informática e periféricos
+26.3,Fabricação de equipamentos de comunicação
+26.4,"Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo"
+26.5,"Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios"
+26.6,Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação
+26.7,"Fabricação de equipamentos e instrumentos ópticos, fotográficos e cinematográficos"
+26.8,"Fabricação de mídias virgens, magnéticas e ópticas"
+27.1,"Fabricação de geradores, transformadores e motores elétricos"
+27.2,"Fabricação de pilhas, baterias e acumuladores elétricos"
+27.3,Fabricação de equipamentos para distribuição e controle de energia elétrica
+27.4,Fabricação de lâmpadas e outros equipamentos de iluminação
+27.5,Fabricação de eletrodomésticos
+27.9,Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente
+28.1,"Fabricação de motores, bombas, compressores e equipamentos de transmissão"
+28.2,Fabricação de máquinas e equipamentos de uso geral
+28.3,Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária
+28.4,Fabricação de máquinas-ferramenta
+28.5,Fabricação de máquinas e equipamentos de uso na extração mineral e na construção
+28.6,Fabricação de máquinas e equipamentos de uso industrial específico
+29.1,"Fabricação de automóveis, camionetas e utilitários"
+29.2,Fabricação de caminhões e ônibus
+29.3,"Fabricação de cabines, carrocerias e reboques para veículos automotores"
+29.4,Fabricação de peças e acessórios para veículos automotores
+29.5,Recondicionamento e recuperação de motores para veículos automotores
+30.1,Construção de embarcações
+30.3,Fabricação de veículos ferroviários
+30.4,Fabricação de aeronaves
+30.5,Fabricação de veículos militares de combate
+30.9,Fabricação de equipamentos de transporte não especificados anteriormente
+31.0,Fabricação de móveis
+32.1,"Fabricação de artigos de joalheria, bijuteria e semelhantes"
+32.2,Fabricação de instrumentos musicais
+32.3,Fabricação de artefatos para pesca e esporte
+32.4,Fabricação de brinquedos e jogos recreativos
+32.5,Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos
+32.9,Fabricação de produtos diversos
+33.1,Manutenção e reparação de máquinas e equipamentos
+33.2,Instalação de máquinas e equipamentos
+35.1,"Geração, transmissão e distribuição de energia elétrica"
+35.2,Produção e distribuição de combustíveis gasosos por redes urbanas
+35.3,"Produção e distribuição de vapor, água quente e ar
+condicionado"
+36.0,"Captação, tratamento e distribuição de água"
+37.0,Esgoto e atividades relacionadas
+38.1,Coleta de resíduos
+38.2,Tratamento e disposição de resíduos
+38.3,Recuperação de materiais
+39.0,Descontaminação e outros serviços de gestão de resíduos
+41.1,Incorporação de empreendimentos imobiliários
+41.2,Construção de edifícios
+42.1,"Construção de rodovias, ferrovias, obras urbanas e obras-de-arte especiais"
+42.2,"Obras de infraestrutura para energia elétrica, telecomunicações, água, esgoto e transporte por dutos"
+42.9,Construção de outras obras de infraestrutura
+43.1,Demolição e preparação do terreno
+43.2,"Instalações elétricas, hidráulicas e outras instalações em construções"
+43.3,Obras de acabamento
+43.9,Outros serviços especializados para construção
+45.1,Comércio de veículos automotores
+45.2,Manutenção e reparação de veículos automotores
+45.3,Comércio de peças e acessórios para veículos automotores
+45.4,"Comércio, manutenção e reparação de motocicletas, peças e acessórios"
+46.1,"Representantes comerciais e agentes do comércio, exceto de veículos automotores e motocicletas"
+46.2,Comércio atacadista de matérias-primas agrícolas e animais vivos
+46.3,"Comércio atacadista especializado em produtos alimentícios, bebidas e fumo"
+46.4,Comércio atacadista de produtos de consumo não alimentar
+46.5,Comércio atacadista de equipamentos e produtos de tecnologias de informação e comunicação
+46.6,"Comércio atacadista de máquinas, aparelhos e equipamentos, exceto de tecnologias de informação e comunicação"
+46.7,"Comércio atacadista de madeira, ferragens, ferramentas, material elétrico e material de construção"
+46.8,Comércio atacadista especializado em outros produtos
+46.9,Comércio atacadista não especializado
+47.1,Comércio varejista não especializado
+47.2,"Comércio varejista de produtos alimentícios, bebidas e fumo"
+47.3,Comércio varejista de combustíveis para veículos automotores
+47.4,Comércio varejista de material de construção
+47.5,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico
+47.6,"Comércio varejista de artigos culturais, recreativos e esportivos"
+47.7,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos"
+47.8,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados
+47.9,Comércio ambulante e outros tipos de comércio varejista
+49.1,Transporte ferroviário e metroferroviário
+49.2,Transporte rodoviário de passageiros
+49.3,Transporte rodoviário de carga
+49.4,Transporte dutoviário
+49.5,"Trens turísticos, teleféricos e similares"
+50.1,Transporte marítimo de cabotagem e longo curso
+50.2,Transporte por navegação interior
+50.3,Navegação de apoio
+50.9,Outros transportes aquaviários
+51.1,Transporte aéreo de passageiros
+51.2,Transporte aéreo de carga
+51.3,Transporte espacial
+52.1,"Armazenamento, carga e descarga"
+52.2,Atividades auxiliares dos transportes terrestres
+52.3,Atividades auxiliares dos transportes aquaviários
+52.4,Atividades auxiliares dos transportes aéreos
+52.5,Atividades relacionadas à organização do transporte de carga
+53.1,Atividades de Correio
+53.2,Atividades de malote e de entrega
+55.1,Hotéis e similares
+55.9,Outros tipos de alojamento não especificados anteriormente
+56.1,Restaurantes e outros serviços de alimentação e bebidas
+56.2,"Serviços de catering, bufê e outros serviços de comida preparada"
+58.1,"Edição de livros, jornais, revistas e outras atividades de edição"
+58.2,"Edição integrada à impressão de livros, jornais, revistas e outras publicações"
+59.1,"Atividades cinematográficas, produção de vídeos e de programas de televisão"
+59.2,Atividades de gravação de som e de edição de música
+60.1,Atividades de rádio
+60.2,Atividades de televisão
+61.1,Telecomunicações por fio
+61.2,Telecomunicações sem fio
+61.3,Telecomunicações por satélite
+61.4,Operadoras de televisão por assinatura
+61.9,Outras atividades de telecomunicações
+62.0,Atividades dos serviços de tecnologia da informação
+63.1,"Tratamento de dados, hospedagem na Internet e outras atividades relacionadas"
+63.9,Outras atividades de prestação de serviços de informação
+64.1,Banco Central
+64.2,Intermediação monetária - depósitos à vista
+64.3,Intermediação não monetária - outros instrumentos de captação
+64.4,Arrendamento mercantil
+64.5,Sociedades de capitalização
+64.6,Atividades de sociedades de participação
+64.7,Fundos de investimento
+64.9,Atividades de serviços financeiros não especificadas anteriormente
+65.1,Seguros de vida e não vida
+65.2,Seguros-saúde
+65.3,Resseguros
+65.4,Previdência complementar
+65.5,Planos de saúde
+66.1,Atividades auxiliares dos serviços financeiros
+66.2,"Atividades auxiliares dos seguros, da previdência complementar e dos planos de saúde"
+66.3,"Atividades de administração de fundos por contrato ou
+comissão"
+68.1,Atividades imobiliárias de imóveis próprios
+68.2,Atividades imobiliárias por contrato ou comissão
+69.1,Atividades jurídicas
+69.2,"Atividades de contabilidade, consultoria e auditoria contábil e tributária"
+70.1,Sedes de empresas e unidades administrativas locais
+70.2,Atividades de consultoria em gestão empresarial
+71.1,Serviços de arquitetura e engenharia e atividades técnicas relacionadas
+71.2,Testes e análises técnicas
+72.1,Pesquisa e desenvolvimento experimental em ciências físicas e naturais
+72.2,Pesquisa e desenvolvimento experimental em ciências sociais e humanas
+73.1,Publicidade
+73.2,Pesquisas de mercado e de opinião pública
+74.1,Design e decoração de interiores
+74.2,Atividades fotográficas e similares
+74.9,"Atividades profissionais, científicas e técnicas não especificadas anteriormente"
+75.0,Atividades veterinárias
+77.1,Locação de meios de transporte sem condutor
+77.2,Aluguel de objetos pessoais e domésticos
+77.3,Aluguel de máquinas e equipamentos sem operador
+77.4,Gestão de ativos intangíveis não financeiros
+78.1,Seleção e agenciamento de mão de obra
+78.2,Locação de mão de obra temporária
+78.3,Fornecimento e gestão de recursos humanos para terceiros
+79.1,Agências de viagens e operadores turísticos
+79.9,Serviços de reservas e outros serviços de turismo não especificados anteriormente
+80.1,"Atividades de vigilância, segurança privada e transporte de valores"
+80.2,Atividades de monitoramento de sistemas de segurança
+80.3,Atividades de investigação particular
+81.1,Serviços combinados para apoio a edifícios
+81.2,Atividades de limpeza
+81.3,Atividades paisagísticas
+82.1,Serviços de escritório e apoio administrativo
+82.2,Atividades de teleatendimento
+82.3,"Atividades de organização de eventos, exceto culturais e esportivos"
+82.9,Outras atividades de serviços prestados principalmente às empresas
+84.1,Administração do estado e da política econômica e social
+84.2,Serviços coletivos prestados pela administração pública
+84.3,Seguridade social obrigatória
+85.1,Educação infantil e ensino fundamental
+85.2,Ensino médio
+85.3,Educação superior
+85.4,Educação profissional de nível técnico e tecnológico
+85.5,Atividades de apoio à educação
+85.9,Outras atividades de ensino
+86.1,Atividades de atendimento hospitalar
+86.2,Serviços móveis de atendimento a urgências e de remoção de pacientes
+86.3,Atividades de atenção ambulatorial executadas por médicos e odontólogos
+86.4,Atividades de serviços de complementação diagnóstica e terapêutica
+86.5,"Atividades de profissionais da área de saúde, exceto médicos e odontólogos"
+86.6,Atividades de apoio à gestão de saúde
+86.9,Atividades de atenção à saúde humana não especificadas anteriormente
+87.1,"Atividades de assistência a idosos, deficientes físicos, imunodeprimidos e convalescentes, e de infraestrutura e apoio a pacientes prestadas em residências coletivas e particulares"
+87.2,"Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência
+química"
+87.3,Atividades de assistência social prestadas em residências coletivas e particulares
+88.0,Serviços de assistência social sem alojamento
+90.0,"Atividades artísticas, criativas e de espetáculos"
+91.0,Atividades ligadas ao patrimônio cultural e ambiental
+92.0,Atividades de exploração de jogos de azar e apostas
+93.1,Atividades esportivas
+93.2,Atividades de recreação e lazer
+94.1,"Atividades de organizações associativas patronais, empresariais e profissionais"
+94.2,Atividades de organizações sindicais
+94.3,Atividades de associações de defesa de direitos sociais
+94.9,Atividades de organizações associativas não especificadas anteriormente
+95.1,Reparação e manutenção de equipamentos de informática e comunicação
+95.2,Reparação e manutenção de objetos e equipamentos pessoais e domésticos
+96.0,Outras atividades de serviços pessoais
+97.0,Serviços domésticos
+99.0,Organismos internacionais e outras instituições extraterritoriais
